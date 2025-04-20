@@ -2,7 +2,7 @@
   </p>
 <a><img src='https://files.catbox.moe/izd8l0.jpeg'/></a>
 <p align="center">
-  <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Youngtee230"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20YOUNG TEE-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9p514JkK797wMg5y2N)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{youngtee}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{YOUNGT-XMD}/count.svg" alt="youngtee :: Visitor's Count" old_src="https://profile-counter.glitch.me/{youngtee}/count.svg" /></p>
 
 
 <p align="center">
